@@ -15,7 +15,7 @@ QR.py is the QRcode generator for our telegram group.
 Featurethon_QR.png is the QR code to be scanned to access our telegram group.
 
 # What the project is?
-As this is our First Jina project we decided to make an easy project -Telegram Dictionary Bot using Semantic search with Jina.
+As this is our First Jina project we decided to make an easy one -Telegram Dictionary Bot using Semantic search with Jina.
 
 # Why did we create it?
 We created this as to make text searching more easier. Using telegram bot the searching of text from the dictionary became more easier and it is also user friendly.

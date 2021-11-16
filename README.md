@@ -24,7 +24,7 @@ We created this as to make text searching more easier. Using telegram bot the se
 We made it using Jina Documents to open our CSV file and for faster access.
 Basic python functions for handling the flow for execution.
 Telegram API is used for receiving and replying to the message input.
-We used dictionary csv file and Telgram functions to make Text searching possible.
+We used dictionary csv file and Telgram bot functions to make Text searching possible.
 
 # How to run it locally?
 It can be run locally by normal "Python File Name"

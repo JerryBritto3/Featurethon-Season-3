@@ -15,15 +15,16 @@ QR.py is the QRcode generator for our telegram group.
 Featurethon_QR.png is the QR code to be scanned to access our telegram group.
 
 # What the project is?
-We have made Telegram Dictionary Bot using Semantic search with Jina.
+As this is our First Jina project we decided to make an easy project -Telegram Dictionary Bot using Semantic search with Jina.
 
 # Why did we create it?
-We created this to learn more about Jina and how fast it is when compared to primitive technologies.
+We created this as to make text searching more easier. Using telegram bot the searching of text from the dictionary became more easier and it is also user friendly.
 
 # How did we make it?
 We made it using Jina Documents to open our CSV file and for faster access.
 Basic python functions for handling the flow for execution.
 Telegram API is used for receiving and replying to the message input.
+We used dictionary csv file and Telgram functions to make Text searching possible.
 
 # How to run it locally?
 It can be run locally by normal "Python File Name"
